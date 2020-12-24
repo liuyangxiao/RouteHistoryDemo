@@ -1,0 +1,4 @@
+#Thu Dec 24 00:58:05 CST 2020
+base.0=E\:\\AndroidDemo\\RouteHistoryDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
